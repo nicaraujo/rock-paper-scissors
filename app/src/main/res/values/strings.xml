@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Rock, paper and scissors</string>
+    <string name="app_text">Escolha do app</string>
+    <string name="app_text1">Escolha uma opção abaixo</string>
+    <string name="app_text2">Parabéns! Você ganhou :D</string>
+    <string name="app_text3">Você perdeu :(</string>
 </resources>
